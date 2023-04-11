@@ -1,9 +1,17 @@
 /*========================================
+<<<<<<< HEAD
  *    sl.h: SL version 5.02
  *	Copyright 1993,2002,2014
  *                Toyoda Masashi
  *		  (mtoyoda@acm.org)
  *	Last Modified: 2014/06/03
+=======
+ *    sl.h: SL version 5.1
+ *	Copyright 1993,2002,2014
+ *                Toyoda Masashi
+ *		  (mtoyoda@acm.org)
+ *	Last Modified: 2014/03/31
+>>>>>>> 5.01
  *========================================
  */
 
