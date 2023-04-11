@@ -1,0 +1,8 @@
+diff --git a/readme.txt b/readme.txt
+index d54157b..dfa9bb4 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,2 +1,2 @@
+ Prueba Patch :D
+-
++Modificando archivo
